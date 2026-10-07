@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #275d38, #1a3d25);
+  color: #ffffff;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 40px 60px;
+  border-radius: 16px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 0 10px;
+}
+
+p {
+  font-size: 1.3rem;
+  margin: 6px 0;
+}
